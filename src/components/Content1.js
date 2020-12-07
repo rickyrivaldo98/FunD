@@ -34,7 +34,7 @@ const TopContent = (props) => {
                 <Row>
                     <Col lg="6" className="contentjumb">
                         <h1 className="contenttext1">
-                            Stress Free
+                            Halo
                             <br />
                             Subscription
                             <br />
