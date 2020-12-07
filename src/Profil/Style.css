@@ -1,0 +1,259 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200;1,300;1,400&display=swap");
+
+/* @media (min-width: 992px) {  */
+
+/* sidemenu */
+.kardmenu {
+  height: 100%;
+  border-radius: 0;
+  font-family: Poppins;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+
+#logout {
+  background-color: #e20b0b;
+  border-color: #e20b0b;
+  border-radius: 0px;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+#logout:hover {
+  opacity: 90%;
+}
+
+.pict {
+  width: 180px;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.pictb {
+  display: flex;
+  justify-content: center;
+  padding: 35px;
+}
+
+.card-body {
+  padding: 0 !important;
+}
+
+.icon {
+  width: 20px;
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.active {
+  color: white !important;
+  background-color: #7971ea;
+}
+
+.hov:hover {
+  color: white;
+  background-color: #7971ea;
+}
+
+.side {
+  margin-bottom: 0px;
+  padding-left: 0;
+}
+
+.side-men {
+  width: 100% !important;
+  background-color: #eeeeee;
+}
+
+.nav-link {
+  color: black;
+}
+
+.left {
+  float: left !important;
+}
+
+/* konten dashboard */
+.kartu1 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  width: 150vh;
+  font-family: Poppins;
+}
+
+.kartu2 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  height: 40vh;
+  font-family: Poppins;
+}
+
+.kartu1 h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.kartu2 h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+
+.kardetail {
+  margin: 5px 50px;
+  padding: 10px;
+}
+
+.kardetail:hover {
+  cursor: pointer;
+  background-color: #eeeeee;
+  color: #7971ea;
+  opacity: 80%;
+}
+
+.grafik {
+  height: 30vh;
+}
+
+/* konten wallet  */
+.kartu3 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  height: 90vh;
+  width: 150vh;
+  font-family: Poppins;
+}
+
+.kartu3 h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+
+.kartu4 {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  height: 90vh;
+  width: 150vh;
+  font-family: Poppins;
+  padding: 20px;
+}
+
+.kartu4 h2 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 15px;
+}
+
+.kardwallet {
+  height: 30vh;
+  margin: 5px 50px;
+  padding: 10px;
+  background-color: #7971ea !important;
+}
+
+.kardwallet h4 {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.kardwallet h5 {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kardtopup {
+  height: 10vh;
+  margin: -45px 100px 0px 100px;
+  padding: 10px;
+  background-color: #eeeeee !important;
+}
+
+.wallet {
+  width: 30px !important;
+  margin-left: 160px;
+}
+
+.wallet1 {
+  width: 30px !important;
+  margin-left: 215px;
+}
+
+.kolom h6 {
+  color: black;
+  margin-left: 140px;
+  margin-top: 4px;
+}
+
+.kolom1 h6 {
+  color: black;
+  margin-left: 185px;
+  margin-top: 4px;
+}
+
+.kolom:hover {
+  cursor: pointer;
+  opacity: 60%;
+}
+
+.kolom1:hover {
+  cursor: pointer;
+  opacity: 60%;
+}
+
+/* navdash */
+.navdash {
+  border-bottom: 0.1px solid rgb(209, 207, 207);
+}
+
+.navbar {
+  padding: 15px 1rem;
+}
+
+.fund {
+  color: #7971ea;
+  font-family: Poppins;
+}
+
+.notif {
+  position: relative;
+  left: 1000px;
+}
+
+.picnot {
+  width: 20px;
+  margin: 10px;
+}
+
+.picprof {
+  width: 40px;
+  border: 1px solid black;
+  border-radius: 50%;
+  margin-left: 30px;
+}
+
+/* footer */
+.footer p {
+  margin: 0px;
+  font-family: Poppins;
+}
+
+/* } */

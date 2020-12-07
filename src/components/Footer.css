@@ -1,0 +1,13 @@
+.main-footer {
+    bottom: 0%;
+    height: 40px;
+}
+
+h4 {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');

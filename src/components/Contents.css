@@ -1,0 +1,209 @@
+/* Content 1 */
+
+.main-jumbotron {
+    background-color: #7971EA;
+    height: 1000px;
+    left: 0px;
+    margin-top: -64px;
+}
+
+.contentjumb {
+    padding-top: 11%;
+    padding-left: 140px;
+}
+
+.contenttext1 {
+    margin-bottom: 20%;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+h1 {
+    color: #FAFAFA;
+    font-size: 72px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    line-height: 80px;
+    letter-spacing: -0.03em;
+}
+
+.button1 {
+    color: #FAFAFA;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: black;
+    border-radius: 5px;
+    line-height: 27px;
+    width: 273px;
+    height: 56px;
+    left: 140px;
+    top: 704.5px;
+}
+
+.Logo {
+    height: 952px;
+    width: 708px;
+    left: 743px;
+    /* top: 70px; */
+}
+
+.img-header {
+    width: 100%;
+}
+
+.header {
+    background-color: #7971EA;
+}
+
+
+
+
+/* Content 2 */
+
+.contenttext2 {
+    color: black;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    line-height: 54px;
+    padding-left: 140px;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    /* margin-top: 1123.5px;
+    margin-left: 140px; */
+}
+
+h3 {
+    color: #7971EA;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    line-height: 36px;
+    justify-content: flex-end;
+    top: 1823px;
+    left: 1085px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.subscription {
+    height: 900px;
+    width: 100%;
+    padding-right: 0%;
+    padding-left: 140px;
+}
+
+.cardrow {
+    width: 1500px;
+    justify-content: center;
+    margin-left: 140px;
+}
+
+.cardcol {
+    padding: 0%;
+    margin: 0%;
+}
+
+.cardcol:hover .overlay {
+    height: 100%;
+}
+
+.SubsApp {
+    height: 359px;
+    width: 359px;
+    border-radius: 5.8px;
+    overflow-x: scroll;
+    display: block;
+    cursor: none;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: aliceblue;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: .5s ease;
+    cursor: none;
+}
+
+.text {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate((-50%, -50%));
+    transform: translate(-50%, -50%);
+    text-align: center;
+    cursor: none;
+}
+
+.linkapp {
+    text-align: right;
+    padding-right: 0%;
+}
+
+
+
+
+
+/* Content 3 */
+
+.rectangle {
+    height: 350px;
+    background-color: black;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.contenttext3 {
+    color: #eeeeee;
+    font-size: 36px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    line-height: 54px;
+    padding-left: 140px;
+    padding-top: 100px;
+}
+
+.button3 {
+    color: #eeeeee;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    line-height: 27px;
+    text-align: center;
+    background-color: #7971EA;
+    width: 273px;
+    height: 56px;
+    margin-left: 140px;
+    border-radius: 5px;
+}
+
+.Dots {
+    width: 100px;
+    height: 225px;
+    margin-top: 182px;
+    margin-left: 42px;
+    background-color: rgba(255, 255, 255, 0.6);
+    background: transparent;
+    transform: rotate(90deg);
+}
