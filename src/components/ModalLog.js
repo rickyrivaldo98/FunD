@@ -34,7 +34,7 @@ export const ModalLog = ({ showModalLog, setShowModalLog }) => {
       password: password,
     };
     axios
-      .post(`http://13.238.142.2/login`, user)
+      .post(`https://13.238.142.2/login`, user)
       .then((res) => {
         console.log(res);
         setUserSession(res.data.token, res.data.id, res.data.fullName);
